@@ -1,0 +1,16 @@
+PODS:
+  - Snowbank (1.0.0)
+
+DEPENDENCIES:
+  - Snowbank (from `../Snowbank/`)
+
+EXTERNAL SOURCES:
+  Snowbank:
+    :path: "../Snowbank/"
+
+SPEC CHECKSUMS:
+  Snowbank: d93c6dd14708ec0fec7c4080471f8dffd68117e5
+
+PODFILE CHECKSUM: 43b897e32463e6e78a718d5889a1b48642386b05
+
+COCOAPODS: 1.8.0.beta.1
